@@ -21,4 +21,4 @@ Configurer le .json et c'est bon !
 Voici le [READ ME](https://github.com/victorr2603/VICroulette/tree/main)
 
 ## :low_battery::battery: Téléchargement :
-Voici le [Github](https://github.com/victorr2603/VICrevive/releases/tag/Plugins) pour le télécharger !
+Voici le [Github](https://github.com/victorr2603/VICroulette/releases/tag/Plugin) pour le télécharger !

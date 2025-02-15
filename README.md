@@ -18,7 +18,7 @@ Le lancer ou le relancer
 Configurer le .json et c'est bon !
 
 ## :ledger: READ ME :
-Voici le [READ ME](https://github.com/victorr2603/VICrevive/tree/main)
+Voici le [READ ME](https://github.com/victorr2603/VICroulette/tree/main)
 
 ## :low_battery::battery: Téléchargement :
 Voici le [Github](https://github.com/victorr2603/VICrevive/releases/tag/Plugins) pour le télécharger !

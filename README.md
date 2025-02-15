@@ -8,7 +8,8 @@ Pour ceux qui ne connaisse pas vous avez une chance sur tel nombre de prendre un
 • j’ai mit un fichier config.json pour configurer la chance de prendre une balle donc 1 chance sur nombre configurable.
 
 •  Interdiction de vendre mon plugin ou de le décompiler ou le leak bref juste utiliser le dans votre serveur et respecter le !
- 
+
+## :books: Dépendances :
 **• Le plugin nécessite [ModKit et AAmenu](https://github.com/Aarnow/NovaLife_ModKit-Releases/releases/tag/v2.1.0)  comme dépendance !**
 
 ## :hammer: Utilisation :

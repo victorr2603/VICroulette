@@ -1,6 +1,6 @@
 ## :information_source: Informations  :
 
-• plugin permettant de jouer à la roulette Russe :flag_ru: avec un cobaye
+• plugin permettant de jouer à la roulette Russe avec un cobaye
 Pour ceux qui ne connaisse pas vous avez une chance sur tel nombre de prendre une balle et de perdre 20 % de vie
 
 • l'utilité de ce plugin est de s'amuser avec ses cobayes et de bien le faire stressé ! (si vous jouez bien votre RP ça peut être incroyable !)

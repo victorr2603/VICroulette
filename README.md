@@ -1,4 +1,3 @@
-
 ## :information_source: Informations  :
 
 • plugin permettant de jouer à la roulette Russe :flag_ru: avec un cobaye
@@ -12,14 +11,14 @@ Pour ceux qui ne connaisse pas vous avez une chance sur tel nombre de prendre un
  
 **• Le plugin nécessite [ModKit et AAmenu](https://github.com/Aarnow/NovaLife_ModKit-Releases/releases/tag/v2.1.0)  comme dépendance !**
 
-__## :hammer: Utilisation :__
+## :hammer: Utilisation :
 Pour utiliser ce plugin il faudra :
 Mettre le plugin dans votre serveur accompagné de modkit et aamenu
 Le lancer ou le relancer
 Configurer le .json et c'est bon !
 
-__## :ledger: READ ME :__
+## :ledger: READ ME :
 Voici le [READ ME](https://github.com/victorr2603/VICrevive/tree/main)
 
-__## :low_battery::battery: Téléchargement :__
+## :low_battery::battery: Téléchargement :
 Voici le [Github](https://github.com/victorr2603/VICrevive/releases/tag/Plugins) pour le télécharger !
